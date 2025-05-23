@@ -171,7 +171,7 @@ page_bg_img_css = f'''
 /* Estilos para o texto: cor, negrito, sem sombra */
 /* Geral para todos os textos, exceto os títulos principais que têm suas cores específicas */
 h3, p, span, div, .stTextInput > div > div > input {{
-    color: #fcfafa !important; /* Branco */
+    color: #080404 !important; /* Preto */
     font-weight: bold !important; /* Texto em negrito */
 }}
 
